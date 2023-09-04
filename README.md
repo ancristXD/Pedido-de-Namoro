@@ -1,2 +1,3 @@
 # Pedido de Namoro
 Melhorei o código do usuário  MTHS1901. HAHAHAHAHAHAHAHAHA
+ESSE CÓDIGO VAI FUNCIONAR DIREITO NO PC
